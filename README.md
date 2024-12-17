@@ -1,0 +1,2 @@
+# Infinite Loop in React useEffect Hook
+This repo demonstrates a common error in React where an infinite loop occurs within a useEffect hook. The issue arises from updating the state within the hook without proper conditional logic to terminate the loop.
